@@ -26,7 +26,7 @@ def medicare_id(val):
             return False
     return True
             
-User_file = input(r'Please right the root of your file same like "C:\Users\Yakir\Downloads\financials.csv": ')
+User_file = input(r'Please write the root of your file same like "C:\Users\Yakir\Downloads\financials.csv": ')
 file = pd.read_csv(User_file)
 new_data = []
 
