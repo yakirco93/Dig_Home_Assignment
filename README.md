@@ -19,3 +19,7 @@ First of all, we will divide the data according to the structures it appears, th
 Then we will write a function that will receive a specific template. For example, a string, comma, number and an upper-case string.
 
 More details are in the Jupyter file
+
+
+After reading the instructions again at the end of the task, I noticed that the number of occurrences of sensitive information should not be specified.
+This can be done in the loop found in the code, so the output should contain only one instance of the information found
